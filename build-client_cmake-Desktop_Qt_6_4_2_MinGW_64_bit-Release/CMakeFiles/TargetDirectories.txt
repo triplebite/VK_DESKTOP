@@ -1,0 +1,9 @@
+C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/client_cmake.dir
+C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/client_cmake_autogen_timestamp_deps.dir
+C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/client_cmake_autogen.dir

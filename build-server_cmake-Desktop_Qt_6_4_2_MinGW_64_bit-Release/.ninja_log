@@ -1,0 +1,9 @@
+# ninja log v5
+1	589	7054529142145847	server_cmake_autogen/timestamp	cddb2d22553aa31c
+1	589	7054529142145847	server_cmake_autogen/mocs_compilation.cpp	cddb2d22553aa31c
+1	589	7054529142145847	C:/build-server_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/server_cmake_autogen/timestamp	cddb2d22553aa31c
+1	589	7054529142145847	C:/build-server_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/server_cmake_autogen/mocs_compilation.cpp	cddb2d22553aa31c
+595	1644	7054529153620191	CMakeFiles/server_cmake.dir/main.cpp.obj	c6c85a4c04e25640
+592	1679	7054529153990658	CMakeFiles/server_cmake.dir/server_cmake_autogen/mocs_compilation.cpp.obj	9b8972f1e6976dc1
+597	1848	7054529155645847	CMakeFiles/server_cmake.dir/server.cpp.obj	8d6c2022a931fc10
+1849	1997	7054529157034712	server_cmake.exe	9aef01da1b172b84

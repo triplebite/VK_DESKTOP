@@ -1,0 +1,10 @@
+# ninja log v5
+0	557	7054529261074149	client_cmake_autogen/timestamp	9879584698707e4
+0	557	7054529261074149	client_cmake_autogen/mocs_compilation.cpp	9879584698707e4
+0	557	7054529261074149	C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/client_cmake_autogen/timestamp	9879584698707e4
+0	557	7054529261074149	C:/build-client_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release/client_cmake_autogen/mocs_compilation.cpp	9879584698707e4
+564	1746	7054529273894744	CMakeFiles/client_cmake.dir/main.cpp.obj	c75f231307073aee
+557	1857	7054529274963530	CMakeFiles/client_cmake.dir/client_cmake_autogen/mocs_compilation.cpp.obj	f1f2dceca58767f3
+562	1930	7054529275722153	CMakeFiles/client_cmake.dir/chatroom.cpp.obj	4c31dc4ef3ff5957
+559	1998	7054529276426842	CMakeFiles/client_cmake.dir/mainwindow.cpp.obj	a3450c1684540de5
+1998	2123	7054529277490869	client_cmake.exe	436d3596ff0e292a

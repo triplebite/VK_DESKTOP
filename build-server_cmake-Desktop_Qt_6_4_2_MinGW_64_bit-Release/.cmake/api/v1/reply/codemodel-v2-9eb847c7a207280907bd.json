@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-db24fb46666f7a0b41da.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "server_cmake",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "server_cmake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_cmake-Release-7738f4a9ad0385e57586.json",
+					"name" : "server_cmake",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_cmake_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_cmake_autogen-Release-19364751629dcc1d3acf.json",
+					"name" : "server_cmake_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_cmake_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_cmake_autogen_timestamp_deps-Release-c7d5e2273bd9e6fa497b.json",
+					"name" : "server_cmake_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/build-server_cmake-Desktop_Qt_6_4_2_MinGW_64_bit-Release",
+		"source" : "C:/server_cmake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
